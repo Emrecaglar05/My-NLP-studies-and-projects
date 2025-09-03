@@ -1,11 +1,3 @@
-# 📊 Metin Analizi ve Duygu Analizi Projeleri
-
-Bu depo iki ayrı metin analizi projesi içerir:  
-
-1. **Wikipedia Metin Analizi ve WordCloud**  
-2. **Twitter Duygu-Durum Analizi**
-
----
 
 ## 📝 1. Wikipedia Metin Analizi ve WordCloud
 
